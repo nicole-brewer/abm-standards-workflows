@@ -1,0 +1,21 @@
+name: abm-standards-workflows
+channels:
+  - conda-forge
+  - defaults
+  - fastai
+dependencies:
+  - ipywidgets
+  - jupyterlab
+  - nbdev=2.3.12
+  - python=3.8
+  - fastcore=1.5.28
+  - sortedcontainers
+  - openpyxl
+  - networkit  
+  - pandas
+  - networkx
+  - ipycytoscape
+  - seaborn
+
+
+
